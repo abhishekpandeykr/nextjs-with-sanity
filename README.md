@@ -32,3 +32,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Technologies which are used in this Project
+
+Sanity for storing the data [Sanity CMS Tool](sanity.io/docs)
+[Sanity Next](https://github.com/sanity-io/next-sanity) real time view for nextjs client with sanity.
+Languages which are used for Sanity Query in [GROQ](https://www.sanity.io/docs/groq)
+
+# [Explore GROQ](https://groq.dev/)
+
+# [Hero Paaterns](http://www.heropatterns.com/)
